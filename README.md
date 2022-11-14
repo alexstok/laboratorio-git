@@ -1,9 +1,12 @@
-# Sistema de cadastro de jogos
+# Nome do projeto
+> Speed Wiz Dev
 
-> Status do projeto: Em desenvolvimento
+# Finalidade do projeto
+> Aprender a programar em C#
 
-Para rodar esse projeto na sua máquina, por favor digite:
+# Tecnologias utilizadas
+> C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java.
 
-```
-node app.js
-```
+# Nome e email dos desenvolvedores
+> Alex Oliveira
+> alex.stok@gmail.com
